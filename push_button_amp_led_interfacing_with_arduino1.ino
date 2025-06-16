@@ -1,5 +1,4 @@
 //C++ Code
-//Author: Piyush Mishra
 
 int read_val = 0;
 
