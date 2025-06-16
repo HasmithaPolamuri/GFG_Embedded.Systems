@@ -1,5 +1,4 @@
 //C++ Code
-//Author: Piyush Mishra
 
 const byte LED = 13;
 const byte SW = 2;
