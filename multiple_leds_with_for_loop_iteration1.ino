@@ -1,5 +1,5 @@
 //C++ Code
-//Author: Piyush Mishra
+
 /*
   For Loop Iteration
 
