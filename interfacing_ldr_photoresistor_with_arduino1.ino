@@ -1,5 +1,5 @@
 //C++ Code
-//Author: Piyush Mishra
+
 
 const int ledPin = 9;
 const int ldrPin = A0;
