@@ -1,5 +1,4 @@
 //C++ code
-//Author: Piyush Mishra
 
 char mystr[20]; //Initialized variable to store recieved data
 
