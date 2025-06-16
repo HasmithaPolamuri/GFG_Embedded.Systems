@@ -1,5 +1,4 @@
 //C++ code
-//Author: Piyush Mishra
 
 int switchstate1=0;
 int switchstate2=0;
