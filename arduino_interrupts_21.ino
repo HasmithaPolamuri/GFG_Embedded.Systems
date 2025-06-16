@@ -1,5 +1,4 @@
 //C++ Interrupt
-//Author: Piyush Mishra
 
 volatile boolean ledOn = false;
 int o_BUZZERPin = 8;
