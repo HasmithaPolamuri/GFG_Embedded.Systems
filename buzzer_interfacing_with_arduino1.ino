@@ -1,5 +1,4 @@
 //C++ Code
-//Author: Piyush Mishra
 
 int o_BUZZERPin = 9;
 
