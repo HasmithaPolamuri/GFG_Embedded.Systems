@@ -1,5 +1,4 @@
 //C++ code
-//Author: Piyush Mishra
 
 //Connect the segment to arduino pins
 unsigned const int A = 11;
