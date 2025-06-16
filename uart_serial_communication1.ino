@@ -1,5 +1,5 @@
 //C++ code
-//Author: Piyush Mishra
+
 
 char mystr[20] = "HelloWorld"; //String data
 
