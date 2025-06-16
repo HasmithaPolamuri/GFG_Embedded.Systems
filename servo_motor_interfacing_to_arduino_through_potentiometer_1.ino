@@ -1,5 +1,4 @@
 //C++ code
-//Author: Piyush Mishra
 
 #include <Servo.h>
 
