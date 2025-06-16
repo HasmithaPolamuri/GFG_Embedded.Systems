@@ -1,5 +1,4 @@
 //C++ Code
-//Author: Piyush Mishra
 
 int force = 0;
 int frequency = 0;
