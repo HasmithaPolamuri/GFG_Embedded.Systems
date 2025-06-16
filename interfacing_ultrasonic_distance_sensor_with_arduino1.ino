@@ -1,5 +1,5 @@
 //C++ code
-//Author: Piyush Mishra
+
 
 int trigPin = 10;
 int echoPin = 9;
