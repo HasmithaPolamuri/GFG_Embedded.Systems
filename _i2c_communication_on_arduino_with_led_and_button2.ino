@@ -1,5 +1,4 @@
 //C++ Code
-//Author: Piyush Mishra
 
 #include <Wire.h>
 
