@@ -1,5 +1,4 @@
 //C++ code
-//Author: Piyush Mishra
 
 int sensorState = 0;
 int LEDPin = 13;
