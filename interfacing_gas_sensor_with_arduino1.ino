@@ -1,5 +1,4 @@
 //C++ Code
-//Author: Piyush Mishra
 
 int LEDPin = 13;
 int BUZZERPin = 3;
