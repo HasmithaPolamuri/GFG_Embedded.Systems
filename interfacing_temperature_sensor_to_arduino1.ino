@@ -1,5 +1,5 @@
 //C++ Code
-//Author: Piyush Mishra
+
 
 int baseTemp = 0;
 int celsius = 0;
