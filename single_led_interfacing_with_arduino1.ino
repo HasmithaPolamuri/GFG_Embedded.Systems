@@ -1,5 +1,4 @@
 //C++ Code
-//Author: Piyush Mishra
 //LED Interfacing with Arduino
 
 
