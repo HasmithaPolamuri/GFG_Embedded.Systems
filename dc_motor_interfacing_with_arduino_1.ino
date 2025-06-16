@@ -1,5 +1,5 @@
 //C++ Code
-//Author: Piyush Mishra
+
 
 const int motorPin1  = 11;  // Pin 2 of L293D
 const int motorPin2  = 10;  // Pin 7 of L293D
