@@ -1,5 +1,5 @@
 //C++ code
-//Author: Piyush Mishra
+
 
 void setup()
 {
