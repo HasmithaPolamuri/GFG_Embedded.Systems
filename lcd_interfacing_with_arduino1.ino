@@ -1,5 +1,5 @@
 //C++ Code
-//Author: Piyush Mishra
+
 
 // include the library code
 #include <LiquidCrystal.h>
