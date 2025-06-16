@@ -1,5 +1,5 @@
 //C++ Code
-//Author: Piyush Mishra
+
 
 int IR_remote = 0;
 
