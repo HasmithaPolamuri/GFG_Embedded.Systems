@@ -1,5 +1,4 @@
 //C++ Code
-//Author: Piyush Mishra
 
 //Initialization
 void setup()
